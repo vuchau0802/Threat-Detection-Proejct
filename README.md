@@ -1,11 +1,5 @@
-# 🧠 Threat Detection using Machine Learning
+# Threat Detection using Machine Learning
 Detecting and classifying harmful online content using NLP and supervised machine learning.
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Flask](https://img.shields.io/badge/Framework-Flask-green)
-![ML](https://img.shields.io/badge/ML-Sklearn%20%7C%20XGBoost-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
 ---
 
 ## 📖 Overview
