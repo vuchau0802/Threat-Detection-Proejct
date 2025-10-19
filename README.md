@@ -2,13 +2,13 @@
 Detecting and classifying harmful online content using NLP and supervised machine learning.
 ---
 
-## 📖 Overview
+## Overview
 This project aims to **detect cyberbullying** and offensive language on social media platforms using Natural Language Processing (NLP) and machine learning models.  
 It demonstrates an end-to-end ML pipeline — from text preprocessing and feature extraction to model training and web deployment using Flask.
 
 ---
 
-## 🚀 Features
+## Features
 - Detects and classifies online text as safe or harmful.  
 - Preprocessing includes tokenization, stemming, and TF-IDF vectorization.  
 - Multiple ML models trained and compared:
@@ -23,7 +23,7 @@ It demonstrates an end-to-end ML pipeline — from text preprocessing and featur
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 **Languages:** Python  
 **Libraries:** Scikit-learn, XGBoost, Pandas, NLTK, Matplotlib, Seaborn  
 **Framework:** Flask  
@@ -40,13 +40,7 @@ It demonstrates an end-to-end ML pipeline — from text preprocessing and featur
 | Random Forest | 89.9% | 0.86 |
 | Decision Tree | 88.2% | 0.84 |
 
-✅ **Best Model:** Logistic Regression + TF-IDF  
-✅ **Final Ensemble Accuracy:** ~92%
+**Best Model:** Logistic Regression + TF-IDF  
+**Final Ensemble Accuracy:** ~92%
 
 ---
-
-## 💻 Run Locally
-Clone the project:
-```bash
-git clone https://github.com/vuchau/threat-detection-ml.git
-cd threat-detection-ml
